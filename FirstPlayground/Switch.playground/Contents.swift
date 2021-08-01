@@ -78,7 +78,7 @@ complexCurrectData = .address("E078", 15)
 //Enums with the same value
 enum RawPersonalData: String{
 	case name = "Nombre"
-	case surname = "Apellid"
+	case surname = "Apellido"
 	case address = "Dirección"
 	case phone = "Teléfono"
 }
