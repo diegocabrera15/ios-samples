@@ -43,6 +43,7 @@ default:
 
 //switch wit enum
 enum PersonalData {
+	//case name, case surname, case address, case phone
 	case name
 	case surname
 	case address
@@ -62,3 +63,24 @@ case .address:
 case .phone:
 	print("We are editing the phone")
 }
+
+//complex enum
+enum ComplexPersonalData {
+	case name(String)
+	case surname(String, String)
+	case address(String, Int)
+	case phone(Int)
+}
+
+var complexCurrectData: ComplexPersonalData = .name("Diego")
+complexCurrectData = .address("E078", 15)
+
+//Enums with the same value
+enum RawPersonalData: String{
+	case name = "Nombre"
+	case surname = "Apellid"
+	case address = "Dirección"
+	case phone = "Teléfono"
+}
+
+RawPersonalData.name.rawValue
