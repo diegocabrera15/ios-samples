@@ -25,6 +25,13 @@
 		8955370A26B4F9C500A2B130 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8955370C26B4F9C500A2B130 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8955371226B4F9D500A2B130 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8955371326B50A9B00A2B130 /* Caracter, Unicode, Emojis.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Caracter, Unicode, Emojis.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8955371426B50C3700A2B130 /* Concate-Interpo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Concate-Interpo.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8955371526B50E9200A2B130 /* Comparison-Others.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Comparison-Others.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8955371626B5132E00A2B130 /* Collectionse.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Collectionse.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8955371726B517FC00A2B130 /* Dictionaries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Dictionaries.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8955371826B51D4B00A2B130 /* Tuplas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tuplas.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		89B23D3E26B618D90057D210 /* RangeOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RangeOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +48,13 @@
 		895536F226B4F9C400A2B130 = {
 			isa = PBXGroup;
 			children = (
+				89B23D3E26B618D90057D210 /* RangeOperators.playground */,
+				8955371826B51D4B00A2B130 /* Tuplas.playground */,
+				8955371726B517FC00A2B130 /* Dictionaries.playground */,
+				8955371626B5132E00A2B130 /* Collectionse.playground */,
+				8955371526B50E9200A2B130 /* Comparison-Others.playground */,
+				8955371426B50C3700A2B130 /* Concate-Interpo.playground */,
+				8955371326B50A9B00A2B130 /* Caracter, Unicode, Emojis.playground */,
 				8955371226B4F9D500A2B130 /* MyPlayground.playground */,
 				895536FD26B4F9C400A2B130 /* FirstPlayground */,
 				895536FC26B4F9C400A2B130 /* Products */,
