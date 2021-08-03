@@ -32,6 +32,7 @@
 		8955371726B517FC00A2B130 /* Dictionaries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Dictionaries.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8955371826B51D4B00A2B130 /* Tuplas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tuplas.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8989A75126B8F55000CC70B2 /* WhileLoop.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = WhileLoop.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8989A75226B8F9EA00CC70B2 /* functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = functions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89A4927326B7561B0015BCEF /* Switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Switch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89A4927426B75D680015BCEF /* Enums.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enums.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89A4927526B761EB0015BCEF /* ForLoops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ForLoops.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -52,6 +53,7 @@
 		895536F226B4F9C400A2B130 = {
 			isa = PBXGroup;
 			children = (
+				8989A75226B8F9EA00CC70B2 /* functions.playground */,
 				8989A75126B8F55000CC70B2 /* WhileLoop.playground */,
 				89A4927526B761EB0015BCEF /* ForLoops.playground */,
 				89A4927426B75D680015BCEF /* Enums.playground */,
