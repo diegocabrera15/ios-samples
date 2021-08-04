@@ -13,4 +13,6 @@ if let myString = myOptionalString1, let myString2 = myOptionalString2, let mySt
 }
 
 //Desempaquetado frozado
-print(myOptionalString1!)
+if myOptionalString1 != nil{
+	print(myOptionalString1!)
+}
