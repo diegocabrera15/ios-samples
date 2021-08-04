@@ -247,6 +247,27 @@
 			<key>orderHint</key>
 			<integer>21</integer>
 		</dict>
+		<key>OptionalBinding (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>OptionalBinding (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>OptionalBinding (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
 		<key>RangeOperators (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
