@@ -38,6 +38,7 @@
 		89A4927426B75D680015BCEF /* Enums.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enums.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89A4927526B761EB0015BCEF /* ForLoops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ForLoops.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89A8FD4B26BA44A5005E1569 /* Structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		89A8FD4C26BA4708005E1569 /* ExampleClass.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ExampleClass.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89B23D3E26B618D90057D210 /* RangeOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RangeOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -55,6 +56,7 @@
 		895536F226B4F9C400A2B130 = {
 			isa = PBXGroup;
 			children = (
+				89A8FD4C26BA4708005E1569 /* ExampleClass.playground */,
 				89A8FD4B26BA44A5005E1569 /* Structures.playground */,
 				8989A75326B9045E00CC70B2 /* Closures.playground */,
 				8989A75226B8F9EA00CC70B2 /* functions.playground */,

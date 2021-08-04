@@ -151,6 +151,27 @@
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
+		<key>ExampleClass (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>ExampleClass (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>ExampleClass (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
 		<key>FirstPlayground.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
