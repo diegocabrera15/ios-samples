@@ -41,7 +41,11 @@
 		89A8FD4C26BA4708005E1569 /* ExampleClass.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ExampleClass.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89A8FD4D26BA5419005E1569 /* Optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Optional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89A8FD4E26BA5752005E1569 /* OptionalBinding.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = OptionalBinding.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		89A8FD4F26BA5BAD005E1569 /* OptionalsChaining.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = OptionalsChaining.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89B23D3E26B618D90057D210 /* RangeOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RangeOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		89F27A0926C226AD00BA3C08 /* GuardLet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GuardLet.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		89F27A0A26C228B700BA3C08 /* ErrorHandling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ErrorHandling.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		89F27A0B26C22FC300BA3C08 /* TypeCasting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeCasting.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,10 @@
 		895536F226B4F9C400A2B130 = {
 			isa = PBXGroup;
 			children = (
+				89F27A0B26C22FC300BA3C08 /* TypeCasting.playground */,
+				89F27A0A26C228B700BA3C08 /* ErrorHandling.playground */,
+				89F27A0926C226AD00BA3C08 /* GuardLet.playground */,
+				89A8FD4F26BA5BAD005E1569 /* OptionalsChaining.playground */,
 				89A8FD4E26BA5752005E1569 /* OptionalBinding.playground */,
 				89A8FD4D26BA5419005E1569 /* Optional.playground */,
 				89A8FD4C26BA4708005E1569 /* ExampleClass.playground */,
