@@ -1,6 +1,7 @@
 import Foundation
 
 //Protocols
+
 protocol PersonProtocol{
 	var name: String{get set}
 	var age: Int{get set}
