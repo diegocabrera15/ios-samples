@@ -193,6 +193,27 @@
 			<key>orderHint</key>
 			<integer>12</integer>
 		</dict>
+		<key>Extensions (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>33</integer>
+		</dict>
+		<key>Extensions (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>34</integer>
+		</dict>
+		<key>Extensions (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>32</integer>
+		</dict>
 		<key>FirstPlayground.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
