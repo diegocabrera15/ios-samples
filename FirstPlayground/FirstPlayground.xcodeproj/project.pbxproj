@@ -46,6 +46,7 @@
 		89F27A0926C226AD00BA3C08 /* GuardLet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GuardLet.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89F27A0A26C228B700BA3C08 /* ErrorHandling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ErrorHandling.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89F27A0B26C22FC300BA3C08 /* TypeCasting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeCasting.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		89F27A0C26C2368C00BA3C08 /* NestedTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NestedTypes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 		895536F226B4F9C400A2B130 = {
 			isa = PBXGroup;
 			children = (
+				89F27A0C26C2368C00BA3C08 /* NestedTypes.playground */,
 				89F27A0B26C22FC300BA3C08 /* TypeCasting.playground */,
 				89F27A0A26C228B700BA3C08 /* ErrorHandling.playground */,
 				89F27A0926C226AD00BA3C08 /* GuardLet.playground */,
