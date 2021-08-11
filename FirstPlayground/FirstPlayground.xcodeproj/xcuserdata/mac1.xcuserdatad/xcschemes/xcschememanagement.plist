@@ -67,6 +67,48 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>CollectionAlgorithms (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>34</integer>
+		</dict>
+		<key>CollectionAlgorithms (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>35</integer>
+		</dict>
+		<key>CollectionAlgorithms (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>33</integer>
+		</dict>
+		<key>CollectionAlgotimsSorted (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
+		<key>CollectionAlgotimsSorted (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
+		<key>CollectionAlgotimsSorted (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
 		<key>Collectionse (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -268,6 +310,27 @@
 			<key>orderHint</key>
 			<integer>14</integer>
 		</dict>
+		<key>ForeachAlgorithms (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>43</integer>
+		</dict>
+		<key>ForeachAlgorithms (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>44</integer>
+		</dict>
+		<key>ForeachAlgorithms (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>42</integer>
+		</dict>
 		<key>Generics (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -330,6 +393,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>15</integer>
+		</dict>
+		<key>MapAlgorithms (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
+		<key>MapAlgorithms (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>41</integer>
+		</dict>
+		<key>MapAlgorithms (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>39</integer>
 		</dict>
 		<key>MyPlayground (Playground) 1.xcscheme</key>
 		<dict>
@@ -435,6 +519,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>6</integer>
+		</dict>
+		<key>OtherMethods (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>46</integer>
+		</dict>
+		<key>OtherMethods (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>OtherMethods (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>45</integer>
 		</dict>
 		<key>Protocols (Playground) 1.xcscheme</key>
 		<dict>
