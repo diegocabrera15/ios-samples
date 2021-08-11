@@ -520,6 +520,27 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
+		<key>OtherMethods (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>46</integer>
+		</dict>
+		<key>OtherMethods (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>OtherMethods (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
 		<key>Protocols (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
